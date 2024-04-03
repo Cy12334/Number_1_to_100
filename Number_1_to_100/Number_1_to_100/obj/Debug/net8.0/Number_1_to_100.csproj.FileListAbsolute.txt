@@ -1,0 +1,14 @@
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\Number_1_to_100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\Number_1_to_100.AssemblyInfoInputs.cache
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\Number_1_to_100.AssemblyInfo.cs
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\Number_1_to_100.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\bin\Debug\net8.0\Number_1_to_100.exe
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\bin\Debug\net8.0\Number_1_to_100.deps.json
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\bin\Debug\net8.0\Number_1_to_100.runtimeconfig.json
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\bin\Debug\net8.0\Number_1_to_100.dll
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\bin\Debug\net8.0\Number_1_to_100.pdb
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\Number_1_to_100.dll
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\refint\Number_1_to_100.dll
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\Number_1_to_100.pdb
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\Number_1_to_100.genruntimeconfig.cache
+C:\Users\MY PC\source\repos\Number_1_to_100\Number_1_to_100\obj\Debug\net8.0\ref\Number_1_to_100.dll
